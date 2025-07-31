@@ -5,7 +5,7 @@
 
 <div style="margin-left:20px;">
   ✶ I’m currently working on <a href="https://github.com/GurnoorBola/stat-bot">RankMe - Discord Bot</a><br>
-  ✶ All of my projects are available at <a href="https://gurnoorbola.github.io/">https://gurnoorbola.github.io/</a><br>
+  ✶ All of my projects are available @ <a href="https://gurnoorbola.github.io/">gurnoorbola.github.io/</a><br>
   ✶ How to reach me <b>gbola@ucsd.edu</b><br>
   ✶ My <a href="https://github.com/GurnoorBola/GurnoorBola/raw/main/Gurnoor_Bola.pdf">resume</a>
 </div>
