@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurnoorbola&label=Profile%20views&color=0e75b6&style=flat" alt="gurnoorbola" /> </p>
 
-- ✶ I’m currently working on [RankMe - Discord Bot](https://github.com/GurnoorBola/stat-bot)
-
-- ✶ All of my projects are available at [https://gurnoorbola.github.io/](https://gurnoorbola.github.io/)
-
-- ✶ How to reach me **gbola@ucsd.edu**
-
-- ✶ My resume [https://github.com/GurnoorBola/GurnoorBola/raw/main/Gurnoor_Bola.pdf](https://github.com/GurnoorBola/GurnoorBola/raw/main/Gurnoor_Bola.pdf)
+<div style="margin-left:20px;">
+  ✶ I’m currently working on <a href="https://github.com/GurnoorBola/stat-bot">RankMe - Discord Bot</a><br>
+  ✶ All of my projects are available at <a href="https://gurnoorbola.github.io/">https://gurnoorbola.github.io/</a><br>
+  ✶ How to reach me <b>gbola@ucsd.edu</b><br>
+  ✶ My <a href="https://github.com/GurnoorBola/GurnoorBola/raw/main/Gurnoor_Bola.pdf">resume</a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
