@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Gurnoor</h1>
+<h1 align="center">Hi! I'm Gurnoor ✌</h1>
 <h3 align="center">A computer science student at UC San Diego with a passion for ML and system programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurnoorbola&label=Profile%20views&color=0e75b6&style=flat" alt="gurnoorbola" /> </p>
 
-- 🔭 I’m currently working on [RankMe - Discord Bot](https://github.com/GurnoorBola/stat-bot)
+- ✶ I’m currently working on [RankMe - Discord Bot](https://github.com/GurnoorBola/stat-bot)
 
-- 👨‍💻 All of my projects are available at [https://gurnoorbola.github.io/](https://gurnoorbola.github.io/)
+- ✶ All of my projects are available at [https://gurnoorbola.github.io/](https://gurnoorbola.github.io/)
 
-- 📫 How to reach me **gbola@ucsd.edu**
+- ✶ How to reach me **gbola@ucsd.edu**
 
-- 📄 My resume [https://github.com/GurnoorBola/GurnoorBola/raw/main/Gurnoor_Bola.pdf](https://github.com/GurnoorBola/GurnoorBola/raw/main/Gurnoor_Bola.pdf)
+- ✶ My resume [https://github.com/GurnoorBola/GurnoorBola/raw/main/Gurnoor_Bola.pdf](https://github.com/GurnoorBola/GurnoorBola/raw/main/Gurnoor_Bola.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
