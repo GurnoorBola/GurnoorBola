@@ -1,5 +1,5 @@
 <h1 align="center">♦ Hi! I'm Gurnoor ☺</h1>
-<h3 align="center">A computer science student at UC San Diego with a passion for ML and system programming</h3>
+<h3 align="center">A computer science student at UC San Diego with a passion for system programming and ML infrastructure</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurnoorbola&label=Profile%20views&color=0e75b6&style=flat" alt="gurnoorbola" /> </p>
 
