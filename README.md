@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurnoorbola&label=Profile%20views&color=0e75b6&style=flat" alt="gurnoorbola" /> </p>
 
 <div style="margin-left:20px;">
-  ✶ I’m currently working on <a href="https://github.com/GurnoorBola/Chip-8-Interpreter">CHIP-8 Interpreter</a><br>
+  ✶ I’m currently working on <a href="https://github.com/GurnoorBola/nacho">NACHO</a><br>
   ✶ All of my projects are available @ <a href="https://gurnoorbola.github.io/">gurnoorbola.github.io/</a><br>
   ✶ How to reach me <b>gbola@ucsd.edu</b><br>
   ✶ My <a href="https://github.com/GurnoorBola/GurnoorBola/raw/main/Gurnoor_Bola.pdf">resume</a>
