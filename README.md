@@ -7,7 +7,6 @@
   ✶ I’m currently working on <a href="https://github.com/GurnoorBola/nacho">NACHO</a><br>
   ✶ All of my projects are available @ <a href="https://gurnoorbola.github.io/">gurnoorbola.github.io/</a><br>
   ✶ How to reach me <b>gbola@ucsd.edu</b><br>
-  ✶ My <a href="https://github.com/GurnoorBola/GurnoorBola/raw/main/Gurnoor_Bola.pdf">resume</a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
