@@ -15,8 +15,6 @@
  <picture><img src="https://raw.githubusercontent.com/GurnoorBola/GurnoorBola/refs/heads/main/assets/madeon_linux.gif" alt="linux"></picture>
  <picture><img src="https://raw.githubusercontent.com/GurnoorBola/GurnoorBola/refs/heads/main/assets/vim.vialle.love.anim.gif" alt="vim"></picture>
  <picture><img src="https://raw.githubusercontent.com/GurnoorBola/GurnoorBola/refs/heads/main/assets/emulate.gif" alt="emu"></picture>
- <picture><img src="https://raw.githubusercontent.com/GurnoorBola/GurnoorBola/refs/heads/main/assets/miku.gif" alt="miku"></picture>
- <picture><img src="https://raw.githubusercontent.com/GurnoorBola/GurnoorBola/refs/heads/main/assets/blink-0.gif" alt="blink"></picture>
  <picture><img src="https://raw.githubusercontent.com/GurnoorBola/GurnoorBola/refs/heads/main/assets/github.gif" alt="github"></picture>
 </span>
 
