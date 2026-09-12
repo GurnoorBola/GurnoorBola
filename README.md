@@ -6,7 +6,7 @@
 -----------------------------------------------
 
 ◊ welcome to my profile
-◊ currently working on... uGBA 
+◊ currently working on... helicopter.nvim 
 ◊ all projects @ gurnoorbola.github.io
 ◊ contact: gbola@ucsd.edu 
 
